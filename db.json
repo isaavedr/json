@@ -2,33 +2,33 @@
   "sku_samsung": "SM-N965JKCSHO",
    "nombre": "Galaxy Note 9",
   "cantidad_publicaciones": "2",
-  "fecha": "2019-10-10 12:12:12"
+  "fecha": "2019-10-10 12:12:12",
    "publicacion":[ 
     {	"sku_retail": "92898882a",
 	"nombre_producto_retail" : "Galaxy S9",
-	"nombre_retail" : "Falabella"
-    "url": "https://www.falabella.com/falabella-cl/"
+	"nombre_retail" : "Falabella",
+    "url": "https://www.falabella.com/falabella-cl/",
     "precio_normal": 10000,
     "precio_oferta": 9000,
     "condiciones_precio_oferta": ["CON_TARJETA","DESPACHO_GRATIS"]
 	} ,
-	{“sku_retail": "92898882a",
+	{"sku_retail": "92898882a",
 	"nombre_producto_retail" : "Galaxy S9",
-	"nombre_retail" : "Falabella"
-    "url": "https://www.falabella.com/falabella-cl/"
+	"nombre_retail" : "Falabella",
+    "url": "https://www.falabella.com/falabella-cl/",
     "precio_normal": 10000,
     "precio_oferta": 9000,
     "condiciones_precio_oferta": ["CON_TARJETA","DESPACHO_GRATIS"] 
 	} 
 ],
-   mas_barato:
+   "mas_barato":
     {	"sku_retail": "92898882a",
 	"nombre_producto_retail" : "Galaxy S9",
-	"nombre_retail" : "Falabella"
-    "url": "https://www.falabella.com/falabella-cl/"
+	"nombre_retail" : "Falabella",
+    "url": "https://www.falabella.com/falabella-cl/",
     "precio_normal": 10000,
     "precio_oferta": 9000,
     "condiciones_precio_oferta": ["CON_TARJETA","DESPACHO_GRATIS"]
-	} ,
+	} 
 }
-}
+
